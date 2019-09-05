@@ -144,7 +144,7 @@ automatically.
 Tools
 -----
 
-There is anther included management command, ``cronserver`` which can be used
+There is another included management command, ``cronserver`` which can be used
 to test the periodic running of jobs.  It'll print out information to the
 screen about which job are due and also run them.  Here is how you would use
 it::
